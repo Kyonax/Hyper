@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		8,
+		8
+	],
+	"windowSize": [
+		1268,
+		1034
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-init\",\"hyper-sweet\",\"hyperterm-tab-icons\",\"hyperlinks\",\"hyperline\",\"hyper-drop-file\",\"hyper-launch-menu\",\"hyper-highlight-active-pane\",\"hyper-dark-scrollbar\",\"hyper-search\",\"hyper-hide-title\",\"hyper-opacity\",\"hyperterm-open-devtools\",\"hyperterm-install-devtools\",\"is-hyper\",\"hyperpower\",\"hyperterm-paste\",\"hyperterm-lastpass\",\"hyperterm-dibdabs\",\"hyper-tabs-enhanced\",\"hyper-systray\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-init\",\"1.5.1\"],[\"hyper-sweet\",\"1.0.0\"],[\"hyperterm-tab-icons\",\"1.1.0\"],[\"hyperlinks\",\"0.5.0\"],[\"hyperline\",\"1.2.0\"],[\"hyper-drop-file\",\"1.0.6\"],[\"hyper-launch-menu\",\"4.2.1\"],[\"hyper-highlight-active-pane\",\"0.1.0\"],[\"hyper-dark-scrollbar\",\"1.2.4\"],[\"hyper-search\",\"0.4.0\"],[\"hyper-hide-title\",\"1.0.3\"],[\"hyper-opacity\",\"1.0.0\"],[\"hyperterm-open-devtools\",\"1.0.4\"],[\"hyperterm-install-devtools\",\"1.1.0\"],[\"is-hyper\",\"1.0.0\"],[\"hyperpower\",\"1.1.1\"],[\"hyperterm-paste\",\"1.1.2\"],[\"hyperterm-lastpass\",\"1.0.1\"],[\"hyperterm-dibdabs\",\"0.0.8\"],[\"hyper-tabs-enhanced\",\"0.4.2\"],[\"hyper-systray\",\"1.0.0\"]]"
+	}
+}
